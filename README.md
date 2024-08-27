@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**Nuela-kalu/Nuela-Kalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👋 Hi everyone, I'm Emmanuela.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👀 I'm passionate about data analysis and business intelligence, focusing on transforming data into actionable insights.
+
+🌱 I'm deepening my knowledge through hands-on projects and learning new skills to transition into a data analyst role.
+
+🚀 Let's connect and collaborate on data-driven projects!
+
+🎨 Fun fact: I love exploring designs on Canva and enjoy creating visually appealing graphics in my free time.
+
+
+
